@@ -1,0 +1,15 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: João | CPF: ***.***.000-11
+Serviços:
+- Ducha (R$ 99,90)
+Peças Utilizadas:
+- Óleo de Motor 5W30 | Quantidade: 1 | Unitário: R$ 39,90 | Subtotal: R$ 39,90
+---------------------------------
+Valor Total (sem imposto): R$ 139,80
+Imposto (10%): R$ 13,98
+Valor Final: R$ 153,78
+==================================

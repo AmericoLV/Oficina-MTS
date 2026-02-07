@@ -1,0 +1,15 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: Diego | CPF: ***.***.444-55
+Serviços:
+- Troca de freios (R$ 120,00)
+Peças Utilizadas:
+- Pastilha de freio | Quantidade: 1 | Unitário: R$ 89,50 | Subtotal: R$ 89,50
+---------------------------------
+Valor Total (sem imposto): R$ 209,50
+Imposto (10%): R$ 20,95
+Valor Final: R$ 230,45
+==================================

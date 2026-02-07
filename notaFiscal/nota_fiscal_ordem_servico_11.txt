@@ -1,0 +1,19 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:22
+---------------------------------
+Cliente: Ana | CPF: ***.***.789-00
+Serviços:
+- Alinhamento e balanceamento (R$ 59,90)
+- Troca de oleo (R$ 89,90)
+Peças Utilizadas:
+- Pneu | Quantidade: 1 | Unitário: R$ 299,90 | Subtotal: R$ 299,90
+- 0leo | Quantidade: 1 | Unitário: R$ 49,99 | Subtotal: R$ 49,99
+- Filtro de oleo | Quantidade: 1 | Unitário: R$ 45,90 | Subtotal: R$ 45,90
+- Oleo 5w30 | Quantidade: 1 | Unitário: R$ 29,99 | Subtotal: R$ 29,99
+---------------------------------
+Valor Total (sem imposto): R$ 575,58
+Imposto (10%): R$ 57,56
+Valor Final: R$ 633,14
+==================================

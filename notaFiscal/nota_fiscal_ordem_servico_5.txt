@@ -1,0 +1,15 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: Eduarda | CPF: ***.***.555-66
+Serviços:
+- Troca de bateria (R$ 99,00)
+Peças Utilizadas:
+- Bateria 60Ah | Quantidade: 1 | Unitário: R$ 289,00 | Subtotal: R$ 289,00
+---------------------------------
+Valor Total (sem imposto): R$ 388,00
+Imposto (10%): R$ 38,80
+Valor Final: R$ 426,80
+==================================

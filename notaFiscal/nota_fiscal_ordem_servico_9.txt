@@ -1,0 +1,15 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: Isabela | CPF: ***.***.999-00
+Serviços:
+- Troca de lanterna de farol (R$ 89,00)
+Peças Utilizadas:
+- Farol Gol G4 | Quantidade: 1 | Unitário: R$ 149,99 | Subtotal: R$ 149,99
+---------------------------------
+Valor Total (sem imposto): R$ 238,99
+Imposto (10%): R$ 23,90
+Valor Final: R$ 262,89
+==================================

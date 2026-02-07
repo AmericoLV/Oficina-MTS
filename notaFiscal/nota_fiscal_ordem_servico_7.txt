@@ -1,0 +1,15 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: Gabriela | CPF: ***.***.777-88
+Serviços:
+- Pintura (R$ 119,90)
+Peças Utilizadas:
+- Farol Gol G4 | Quantidade: 1 | Unitário: R$ 149,99 | Subtotal: R$ 149,99
+---------------------------------
+Valor Total (sem imposto): R$ 269,89
+Imposto (10%): R$ 26,99
+Valor Final: R$ 296,88
+==================================

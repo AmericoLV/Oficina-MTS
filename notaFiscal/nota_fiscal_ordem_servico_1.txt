@@ -1,0 +1,16 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: Ana | CPF: ***.***.789-00
+Serviços:
+- Troca de óleo (R$ 89,90)
+Peças Utilizadas:
+- Óleo | Quantidade: 1 | Unitário: R$ 49,99 | Subtotal: R$ 49,99
+- Filtro de óleo | Quantidade: 1 | Unitário: R$ 45,90 | Subtotal: R$ 45,90
+---------------------------------
+Valor Total (sem imposto): R$ 185,79
+Imposto (10%): R$ 18,58
+Valor Final: R$ 204,37
+==================================

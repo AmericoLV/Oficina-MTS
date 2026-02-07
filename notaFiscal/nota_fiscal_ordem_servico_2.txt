@@ -1,0 +1,16 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: Bruno | CPF: ***.***.321-11
+Serviços:
+- Revisão completa (R$ 199,90)
+Peças Utilizadas:
+- Pneu | Quantidade: 1 | Unitário: R$ 299,90 | Subtotal: R$ 299,90
+- Óleo 5W30 | Quantidade: 1 | Unitário: R$ 29,99 | Subtotal: R$ 29,99
+---------------------------------
+Valor Total (sem imposto): R$ 529,79
+Imposto (10%): R$ 52,98
+Valor Final: R$ 582,77
+==================================

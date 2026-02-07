@@ -1,0 +1,15 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: Carla | CPF: ***.***.333-44
+Serviços:
+- Alinhamento (R$ 59,90)
+Peças Utilizadas:
+- Bucha da suspensão | Quantidade: 1 | Unitário: R$ 89,00 | Subtotal: R$ 89,00
+---------------------------------
+Valor Total (sem imposto): R$ 148,90
+Imposto (10%): R$ 14,89
+Valor Final: R$ 163,79
+==================================

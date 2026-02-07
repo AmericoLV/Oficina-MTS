@@ -1,0 +1,15 @@
+========= NOTA FISCAL =========
+Oficina: Oficina Mecanica MTS
+CNPJ: 12.345.678/0001-99
+Data/Hora: 22/07/2025 22:15
+---------------------------------
+Cliente: Henrique | CPF: ***.***.888-99
+Serviços:
+- Revisão de freios (R$ 149,50)
+Peças Utilizadas:
+- Pastilha de Freio Dianteira | Quantidade: 1 | Unitário: R$ 89,50 | Subtotal: R$ 89,50
+---------------------------------
+Valor Total (sem imposto): R$ 239,00
+Imposto (10%): R$ 23,90
+Valor Final: R$ 262,90
+==================================
