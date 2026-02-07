@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "descricao": "Troca de bateria",
+    "preco": 79.90
+  },
+  {
+    "id": 2,
+    "descricao": "Pintura",
+    "preco": 119.90
+  },
+  {
+    "id": 3,
+    "descricao": "Revisão de freios",
+    "preco": 149.50
+  },
+  {
+    "id": 4,
+    "descricao": "Troca de lanterna de farol",
+    "preco": 89.00
+  },
+  {
+    "id": 5,
+    "descricao": "Ducha",
+    "preco": 99.90
+  }
+]

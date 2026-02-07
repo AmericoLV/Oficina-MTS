@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Farol Gol G4",
+    "quantidadeEstoque": 20,
+    "precoUnitario": 149.99
+  },
+  {
+    "id": 2,
+    "nome": "Óleo de Motor 5W30",
+    "quantidadeEstoque": 50,
+    "precoUnitario": 39.90
+  },
+  {
+    "id": 3,
+    "nome": "Pastilha de Freio Dianteira",
+    "quantidadeEstoque": 35,
+    "precoUnitario": 89.50
+  },
+  {
+    "id": 4,
+    "nome": "Bateria 60Ah",
+    "quantidadeEstoque": 15,
+    "precoUnitario": 289.00
+  },
+  {
+    "id": 5,
+    "nome": "Pneu Aro 15",
+    "quantidadeEstoque": 40,
+    "precoUnitario": 399.99
+  }
+]

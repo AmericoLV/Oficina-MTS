@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "tipo": "Cafe",
+    "valor": 45.50,
+    "data": "01-06-2025"
+  },
+  {
+    "id": 2,
+    "tipo": "Salario Funcionario",
+    "valor": 2800.00,
+    "data": "05-06-2025"
+  },
+  {
+    "id": 3,
+    "tipo": "Limpeza",
+    "valor": 120.00,
+    "data": "07-06-2025"
+  },
+  {
+    "id": 4,
+    "tipo": "Material de Escritorio",
+    "valor": 89.90,
+    "data": "10-06-2025"
+  },
+  {
+    "id": 5,
+    "tipo": "Internet",
+    "valor": 99.99,
+    "data": "12-06-2025"
+  }
+]

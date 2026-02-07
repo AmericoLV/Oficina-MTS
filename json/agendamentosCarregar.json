@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "cliente": {
+      "id": 1,
+      "endereco": "rua A",
+      "cpfOriginal": "123.456.789-00",
+      "cpfPseudoAnonimizado": "***.***.789-00",
+      "nome": "Ana",
+      "email": "ana@email.com",
+      "telefone": "98888-8888"
+    },
+    "veiculo": {
+      "placa": "GFR-7980",
+      "modelo": "Uno com escada em cima",
+      "marca": "Fiat",
+      "ano": 2005,
+      "clienteAssociado": {
+        "id": 1,
+        "endereco": "rua A",
+        "cpfOriginal": "123.456.789-00",
+        "cpfPseudoAnonimizado": "***.***.789-00",
+        "nome": "Ana",
+        "email": "ana@email.com",
+        "telefone": "98888-8888"
+      }
+    },
+    "servico": {
+      "id": 1,
+      "descricao": "Troca de bateria",
+      "preco": 79.90
+    },
+    "mecanicoResponsavel": {
+      "id": 3,
+      "cargo": "mecanico",
+      "login": "mario45",
+      "senha": "mario@45",
+      "nome": "Mario Souza",
+      "email": "mario.souza@email.com",
+      "telefone": "97654-3210"
+    },
+    "dataHora": "10-06-2025 09:00",
+    "status": "Agendado",
+    "descricaoProblema": "Troca de óleo"
+  },
+  {
+    "id": 2,
+    "cliente": {
+      "id": 2,
+      "endereco": "rua B",
+      "cpfOriginal": "987.654.321-11",
+      "cpfPseudoAnonimizado": "***.***.321-11",
+      "nome": "Bruno",
+      "email": "bruno@email.com",
+      "telefone": "97777-7777"
+    },
+    "veiculo": {
+      "placa": "BRA-1023",
+      "modelo": "Gol G4",
+      "marca": "Volkswagen",
+      "ano": 2009,
+      "clienteAssociado": {
+        "id": 2,
+        "endereco": "rua B",
+        "cpfOriginal": "987.654.321-11",
+        "cpfPseudoAnonimizado": "***.***.321-11",
+        "nome": "Bruno",
+        "email": "bruno@email.com",
+        "telefone": "97777-7777"
+      }
+    },
+    "servico": {
+      "id": 2,
+      "descricao": "Pintura",
+      "preco": 119.90
+    },
+    "mecanicoResponsavel": {
+      "id": 5,
+      "cargo": "mecanico",
+      "login": "ze1234",
+      "senha": "ze123",
+      "nome": "Jose da Silva",
+      "email": "jose.silva@email.com",
+      "telefone": "91111-5676"
+    },
+    "dataHora": "11-06-2025 14:00",
+    "status": "Agendado",
+    "descricaoProblema": "Revisão completa"
+  },
+  {
+    "id": 3,
+    "cliente": {
+      "id": 3,
+      "endereco": "rua C",
+      "cpfOriginal": "111.222.333-44",
+      "cpfPseudoAnonimizado": "***.***.333-44",
+      "nome": "Carla",
+      "email": "carla@email.com",
+      "telefone": "96666-6666"
+    },
+    "veiculo": {
+      "placa": "XYZ-4598",
+      "modelo": "Civic EX",
+      "marca": "Honda",
+      "ano": 2015,
+      "clienteAssociado": {
+        "id": 3,
+        "endereco": "rua C",
+        "cpfOriginal": "111.222.333-44",
+        "cpfPseudoAnonimizado": "***.***.333-44",
+        "nome": "Carla",
+        "email": "carla@email.com",
+        "telefone": "96666-6666"
+      }
+    },
+    "servico": {
+      "id": 3,
+      "descricao": "Revisão de freios",
+      "preco": 149.50
+    },
+    "mecanicoResponsavel": {
+      "id": 3,
+      "cargo": "mecanico",
+      "login": "mario45",
+      "senha": "mario@45",
+      "nome": "Mario Souza",
+      "email": "mario.souza@email.com",
+      "telefone": "97654-3210"
+    },
+    "dataHora": "12-06-2025 11:30",
+    "status": "Agendado",
+    "descricaoProblema": "Suspensão traseira"
+  },
+  {
+    "id": 4,
+    "cliente": {
+      "id": 4,
+      "endereco": "rua D",
+      "cpfOriginal": "222.333.444-55",
+      "cpfPseudoAnonimizado": "***.***.444-55",
+      "nome": "Diego",
+      "email": "diego@email.com",
+      "telefone": "95555-5555"
+    },
+    "veiculo": {
+      "placa": "DIE-8822",
+      "modelo": "Corolla XRS",
+      "marca": "Toyota",
+      "ano": 2018,
+      "clienteAssociado": {
+        "id": 4,
+        "endereco": "rua D",
+        "cpfOriginal": "222.333.444-55",
+        "cpfPseudoAnonimizado": "***.***.444-55",
+        "nome": "Diego",
+        "email": "diego@email.com",
+        "telefone": "95555-5555"
+      }
+    },
+    "servico": {
+      "id": 4,
+      "descricao": "Troca de lanterna de farol",
+      "preco": 89.00
+    },
+    "mecanicoResponsavel": {
+      "id": 5,
+      "cargo": "mecanico",
+      "login": "ze1234",
+      "senha": "ze123",
+      "nome": "Jose da Silva",
+      "email": "jose.silva@email.com",
+      "telefone": "91111-5676"
+    },
+    "dataHora": "13-06-2025 16:00",
+    "status": "Agendado",
+    "descricaoProblema": "Troca de freios"
+  },
+  {
+    "id": 5,
+    "cliente": {
+      "id": 5,
+      "endereco": "rua E",
+      "cpfOriginal": "333.444.555-66",
+      "cpfPseudoAnonimizado": "***.***.555-66",
+      "nome": "Eduarda",
+      "email": "eduarda@email.com",
+      "telefone": "94444-4444"
+    },
+    "veiculo": {
+      "placa": "EDU-2025",
+      "modelo": "HB20",
+      "marca": "Hyundai",
+      "ano": 2022,
+      "clienteAssociado": {
+        "id": 5,
+        "endereco": "rua E",
+        "cpfOriginal": "333.444.555-66",
+        "cpfPseudoAnonimizado": "***.***.555-66",
+        "nome": "Eduarda",
+        "email": "eduarda@email.com",
+        "telefone": "94444-4444"
+      }
+    },
+    "servico": {
+      "id": 5,
+      "descricao": "Ducha",
+      "preco": 99.90
+    },
+    "mecanicoResponsavel": {
+      "id": 3,
+      "cargo": "mecanico",
+      "login": "mario45",
+      "senha": "mario@45",
+      "nome": "Mario Souza",
+      "email": "mario.souza@email.com",
+      "telefone": "97654-3210"
+    },
+    "dataHora": "14-06-2025 08:45",
+    "status": "Agendado",
+    "descricaoProblema": "Troca de bateria"
+  },
+  {
+  "id": 6,
+  "cliente": {
+    "id": 6,
+    "endereco": "rua F",
+    "cpfOriginal": "444.555.666-77",
+    "cpfPseudoAnonimizado": "***.***.666-77",
+    "nome": "Fernando",
+    "email": "fernando@email.com",
+    "telefone": "90000-0000"
+  },
+  "veiculo": {
+    "placa": "FER-2025",
+    "modelo": "Civic",
+    "marca": "Honda",
+    "ano": 2021,
+    "clienteAssociado": {
+      "id": 6,
+      "endereco": "rua F",
+      "cpfOriginal": "444.555.666-77",
+      "cpfPseudoAnonimizado": "***.***.666-77",
+      "nome": "Fernando",
+      "email": "fernando@email.com",
+      "telefone": "90000-0000"
+    }
+  },
+  "servico": {
+    "id": 1,
+    "descricao": "Troca de bateria",
+    "preco": 79.90
+  },
+  "mecanicoResponsavel": {
+    "id": 5,
+    "cargo": "mecanico",
+    "login": "ze1234",
+    "senha": "ze123",
+    "nome": "Jose da Silva",
+    "email": "jose.silva@email.com",
+    "telefone": "91111-5676"
+  },
+  "dataHora": "15-06-2025 10:00",
+  "status": "Agendado",
+  "descricaoProblema": "Carro não liga"
+},
+{
+  "id": 7,
+  "cliente": {
+    "id": 7,
+    "endereco": "rua G",
+    "cpfOriginal": "555.666.777-88",
+    "cpfPseudoAnonimizado": "***.***.777-88",
+    "nome": "Gabriela",
+    "email": "gabriela@email.com",
+    "telefone": "91111-1111"
+  },
+  "veiculo": {
+    "placa": "GAB-2025",
+    "modelo": "Corolla",
+    "marca": "Toyota",
+    "ano": 2020,
+    "clienteAssociado": {
+      "id": 7,
+      "endereco": "rua G",
+      "cpfOriginal": "555.666.777-88",
+      "cpfPseudoAnonimizado": "***.***.777-88",
+      "nome": "Gabriela",
+      "email": "gabriela@email.com",
+      "telefone": "91111-1111"
+    }
+  },
+  "servico": {
+    "id": 2,
+    "descricao": "Pintura",
+    "preco": 119.90
+  },
+  "mecanicoResponsavel": {
+    "id": 3,
+    "cargo": "mecanico",
+    "login": "mario45",
+    "senha": "mario@45",
+    "nome": "Mario Souza",
+    "email": "mario.souza@email.com",
+    "telefone": "97654-3210"
+  },
+  "dataHora": "16-06-2025 13:00",
+  "status": "Agendado",
+  "descricaoProblema": "Risco na porta traseira"
+},
+{
+  "id": 8,
+  "cliente": {
+    "id": 8,
+    "endereco": "rua H",
+    "cpfOriginal": "666.777.888-99",
+    "cpfPseudoAnonimizado": "***.***.888-99",
+    "nome": "Henrique",
+    "email": "henrique@email.com",
+    "telefone": "92222-2222"
+  },
+  "veiculo": {
+    "placa": "HEN-2025",
+    "modelo": "Onix",
+    "marca": "Chevrolet",
+    "ano": 2019,
+    "clienteAssociado": {
+      "id": 8,
+      "endereco": "rua H",
+      "cpfOriginal": "666.777.888-99",
+      "cpfPseudoAnonimizado": "***.***.888-99",
+      "nome": "Henrique",
+      "email": "henrique@email.com",
+      "telefone": "92222-2222"
+    }
+  },
+  "servico": {
+    "id": 3,
+    "descricao": "Revisão de freios",
+    "preco": 149.50
+  },
+  "mecanicoResponsavel": {
+    "id": 5,
+    "cargo": "mecanico",
+    "login": "ze1234",
+    "senha": "ze123",
+    "nome": "Jose da Silva",
+    "email": "jose.silva@email.com",
+    "telefone": "91111-5676"
+  },
+  "dataHora": "17-06-2025 09:30",
+  "status": "Agendado",
+  "descricaoProblema": "Pedal do freio baixo"
+},
+{
+  "id": 9,
+  "cliente": {
+    "id": 9,
+    "endereco": "rua I",
+    "cpfOriginal": "777.888.999-00",
+    "cpfPseudoAnonimizado": "***.***.999-00",
+    "nome": "Isabela",
+    "email": "isabela@email.com",
+    "telefone": "93333-3333"
+  },
+  "veiculo": {
+    "placa": "ISA-2025",
+    "modelo": "Argo",
+    "marca": "Fiat",
+    "ano": 2023,
+    "clienteAssociado": {
+      "id": 9,
+      "endereco": "rua I",
+      "cpfOriginal": "777.888.999-00",
+      "cpfPseudoAnonimizado": "***.***.999-00",
+      "nome": "Isabela",
+      "email": "isabela@email.com",
+      "telefone": "93333-3333"
+    }
+  },
+  "servico": {
+    "id": 4,
+    "descricao": "Troca de lanterna de farol",
+    "preco": 89.00
+  },
+  "mecanicoResponsavel": {
+    "id": 3,
+    "cargo": "mecanico",
+    "login": "mario45",
+    "senha": "mario@45",
+    "nome": "Mario Souza",
+    "email": "mario.souza@email.com",
+    "telefone": "97654-3210"
+  },
+  "dataHora": "18-06-2025 15:15",
+  "status": "Agendado",
+  "descricaoProblema": "Farol dianteiro quebrado"
+},
+{
+  "id": 10,
+  "cliente": {
+    "id": 10,
+    "endereco": "rua J",
+    "cpfOriginal": "888.999.000-11",
+    "cpfPseudoAnonimizado": "***.***.000-11",
+    "nome": "João",
+    "email": "joao@email.com",
+    "telefone": "99999-9999"
+  },
+  "veiculo": {
+    "placa": "JOA-2025",
+    "modelo": "Tracker",
+    "marca": "Chevrolet",
+    "ano": 2024,
+    "clienteAssociado": {
+      "id": 10,
+      "endereco": "rua J",
+      "cpfOriginal": "888.999.000-11",
+      "cpfPseudoAnonimizado": "***.***.000-11",
+      "nome": "João",
+      "email": "joao@email.com",
+      "telefone": "99999-9999"
+    }
+  },
+  "servico": {
+    "id": 5,
+    "descricao": "Ducha",
+    "preco": 99.90
+  },
+  "mecanicoResponsavel": {
+    "id": 5,
+    "cargo": "mecanico",
+    "login": "ze1234",
+    "senha": "ze123",
+    "nome": "Jose da Silva",
+    "email": "jose.silva@email.com",
+    "telefone": "91111-5676"
+  },
+  "dataHora": "19-06-2025 08:00",
+  "status": "Agendado",
+  "descricaoProblema": "Carro muito sujo após viagem"
+}
+]

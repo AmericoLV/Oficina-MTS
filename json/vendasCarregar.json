@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "produto": {
+      "id": 1,
+      "nome": "Farol Gol G4",
+      "quantidadeEstoque": 20,
+      "precoUnitario": 149.99
+    },
+    "quantidade": 2,
+    "valorTotal": 299.98,
+    "data": "15-06-2025",
+    "cliente": {
+      "id": 1,
+      "endereco": "rua A",
+      "cpfOriginal": "123.456.789-00",
+      "cpfPseudoAnonimizado": "***.***.789-00",
+      "nome": "Ana",
+      "email": "ana@email.com",
+      "telefone": "98888-8888"
+    }
+  },
+  {
+    "id": 2,
+    "produto": {
+      "id": 2,
+      "nome": "Óleo de Motor 5W30",
+      "quantidadeEstoque": 50,
+      "precoUnitario": 39.90
+    },
+    "quantidade": 4,
+    "valorTotal": 159.60,
+    "data": "16-06-2025",
+    "cliente": {
+      "id": 2,
+      "endereco": "rua B",
+      "cpfOriginal": "987.654.321-11",
+      "cpfPseudoAnonimizado": "***.***.321-11",
+      "nome": "Bruno",
+      "email": "bruno@email.com",
+      "telefone": "97777-7777"
+    }
+  },
+  {
+    "id": 3,
+    "produto": {
+      "id": 3,
+      "nome": "Pastilha de Freio Dianteira",
+      "quantidadeEstoque": 35,
+      "precoUnitario": 89.50
+    },
+    "quantidade": 1,
+    "valorTotal": 89.50,
+    "data": "17-06-2025",
+    "cliente": {
+      "id": 3,
+      "endereco": "rua C",
+      "cpfOriginal": "111.222.333-44",
+      "cpfPseudoAnonimizado": "***.***.333-44",
+      "nome": "Carla",
+      "email": "carla@email.com",
+      "telefone": "96666-6666"
+    }
+  },
+  {
+    "id": 4,
+    "produto": {
+      "id": 4,
+      "nome": "Bateria 60Ah",
+      "quantidadeEstoque": 15,
+      "precoUnitario": 289.00
+    },
+    "quantidade": 1,
+    "valorTotal": 289.00,
+    "data": "18-06-2025",
+    "cliente": {
+      "id": 4,
+      "endereco": "rua D",
+      "cpfOriginal": "222.333.444-55",
+      "cpfPseudoAnonimizado": "***.***.444-55",
+      "nome": "Diego",
+      "email": "diego@email.com",
+      "telefone": "95555-5555"
+    }
+  },
+  {
+    "id": 5,
+    "produto": {
+      "id": 5,
+      "nome": "Pneu Aro 15",
+      "quantidadeEstoque": 40,
+      "precoUnitario": 399.99
+    },
+    "quantidade": 2,
+    "valorTotal": 799.98,
+    "data": "19-06-2025",
+    "cliente": {
+      "id": 5,
+      "endereco": "rua E",
+      "cpfOriginal": "333.444.555-66",
+      "cpfPseudoAnonimizado": "***.***.555-66",
+      "nome": "Eduarda",
+      "email": "eduarda@email.com",
+      "telefone": "94444-4444"
+    }
+  },
+  {
+  "id": 6,
+  "produto": {
+    "id": 1,
+    "nome": "Farol Gol G4",
+    "quantidadeEstoque": 20,
+    "precoUnitario": 149.99
+  },
+  "quantidade": 1,
+  "valorTotal": 149.99,
+  "data": "20-06-2025",
+  "cliente": {
+    "id": 6,
+    "endereco": "rua F",
+    "cpfOriginal": "444.555.666-77",
+    "cpfPseudoAnonimizado": "***.***.666-77",
+    "nome": "Fernando",
+    "email": "fernando@email.com",
+    "telefone": "90000-0000"
+  }
+},
+{
+  "id": 7,
+  "produto": {
+    "id": 2,
+    "nome": "Óleo de Motor 5W30",
+    "quantidadeEstoque": 50,
+    "precoUnitario": 39.90
+  },
+  "quantidade": 3,
+  "valorTotal": 119.70,
+  "data": "21-06-2025",
+  "cliente": {
+    "id": 7,
+    "endereco": "rua G",
+    "cpfOriginal": "555.666.777-88",
+    "cpfPseudoAnonimizado": "***.***.777-88",
+    "nome": "Gabriela",
+    "email": "gabriela@email.com",
+    "telefone": "91111-1111"
+  }
+},
+{
+  "id": 8,
+  "produto": {
+    "id": 3,
+    "nome": "Pastilha de Freio Dianteira",
+    "quantidadeEstoque": 35,
+    "precoUnitario": 89.50
+  },
+  "quantidade": 2,
+  "valorTotal": 179.00,
+  "data": "22-06-2025",
+  "cliente": {
+    "id": 8,
+    "endereco": "rua H",
+    "cpfOriginal": "666.777.888-99",
+    "cpfPseudoAnonimizado": "***.***.888-99",
+    "nome": "Henrique",
+    "email": "henrique@email.com",
+    "telefone": "92222-2222"
+  }
+},
+{
+  "id": 9,
+  "produto": {
+    "id": 4,
+    "nome": "Bateria 60Ah",
+    "quantidadeEstoque": 15,
+    "precoUnitario": 289.00
+  },
+  "quantidade": 1,
+  "valorTotal": 289.00,
+  "data": "23-06-2025",
+  "cliente": {
+    "id": 9,
+    "endereco": "rua I",
+    "cpfOriginal": "777.888.999-00",
+    "cpfPseudoAnonimizado": "***.***.999-00",
+    "nome": "Isabela",
+    "email": "isabela@email.com",
+    "telefone": "93333-3333"
+  }
+},
+{
+  "id": 10,
+  "produto": {
+    "id": 5,
+    "nome": "Pneu Aro 15",
+    "quantidadeEstoque": 40,
+    "precoUnitario": 399.99
+  },
+  "quantidade": 4,
+  "valorTotal": 1599.96,
+  "data": "24-06-2025",
+  "cliente": {
+    "id": 10,
+    "endereco": "rua J",
+    "cpfOriginal": "888.999.000-11",
+    "cpfPseudoAnonimizado": "***.***.000-11",
+    "nome": "João",
+    "email": "joao@email.com",
+    "telefone": "99999-9999"
+  }
+}
+]
