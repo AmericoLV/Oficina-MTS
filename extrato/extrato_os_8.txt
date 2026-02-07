@@ -1,0 +1,9 @@
+Extrato de ordem de servico
+Cliente: Henrique | CPF: ***.***.888-99
+Data: 17-06-2025
+Problema: Pedal do freio baixo
+Status: Agendado
+Servicos: 
+ - Revisão de freios(R$ 149,50)
+Valor total: R$239,00
+

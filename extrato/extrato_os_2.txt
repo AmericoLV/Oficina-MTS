@@ -1,0 +1,9 @@
+Extrato de ordem de servico
+Cliente: Bruno | CPF: ***.***.321-11
+Data: 11-06-2025
+Problema: Revisão completa
+Status: Agendado
+Servicos: 
+ - Revisão completa(R$ 199,90)
+Valor total: R$529,79
+

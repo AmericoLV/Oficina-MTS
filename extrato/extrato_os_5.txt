@@ -1,0 +1,9 @@
+Extrato de ordem de servico
+Cliente: Eduarda | CPF: ***.***.555-66
+Data: 14-06-2025
+Problema: Troca de bateria
+Status: Agendado
+Servicos: 
+ - Troca de bateria(R$ 99,00)
+Valor total: R$388,00
+

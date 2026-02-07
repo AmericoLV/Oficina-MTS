@@ -1,0 +1,9 @@
+Extrato de ordem de servico
+Cliente: Carla | CPF: ***.***.333-44
+Data: 12-06-2025
+Problema: Suspensão traseira
+Status: Agendado
+Servicos: 
+ - Alinhamento(R$ 59,90)
+Valor total: R$148,90
+

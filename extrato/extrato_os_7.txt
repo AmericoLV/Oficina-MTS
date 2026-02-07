@@ -1,0 +1,9 @@
+Extrato de ordem de servico
+Cliente: Gabriela | CPF: ***.***.777-88
+Data: 16-06-2025
+Problema: Risco na porta traseira
+Status: Agendado
+Servicos: 
+ - Pintura(R$ 119,90)
+Valor total: R$269,89
+

@@ -1,0 +1,9 @@
+Extrato de ordem de servico
+Cliente: Isabela | CPF: ***.***.999-00
+Data: 18-06-2025
+Problema: Farol dianteiro quebrado
+Status: Agendado
+Servicos: 
+ - Troca de lanterna de farol(R$ 89,00)
+Valor total: R$238,99
+

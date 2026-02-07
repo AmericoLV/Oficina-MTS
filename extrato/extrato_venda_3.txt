@@ -1,0 +1,7 @@
+Extrato de Venda
+Cliente: Joao | CPF: ***.***.876-11
+Produto: 0leo
+Quantidade: 3
+Valor total: R$149.97
+Data: 12-06-2025
+

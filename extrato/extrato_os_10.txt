@@ -1,0 +1,9 @@
+Extrato de ordem de servico
+Cliente: João | CPF: ***.***.000-11
+Data: 19-06-2025
+Problema: Carro muito sujo após viagem
+Status: Agendado
+Servicos: 
+ - Ducha(R$ 99,90)
+Valor total: R$139,80
+

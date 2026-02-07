@@ -1,0 +1,10 @@
+Extrato de ordem de servico
+Cliente: Ana | CPF: ***.***.789-00
+Data: 06-06-2025
+Problema: Carro desalinhado
+Status: Finalizado
+Servicos: 
+ - Alinhamento e balanceamento(R$ 59,90)
+ - Troca de oleo(R$ 89,90)
+Valor total: R$575,58
+

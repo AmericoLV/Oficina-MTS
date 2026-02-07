@@ -1,0 +1,7 @@
+Extrato de Venda
+Cliente: Joao | CPF: ***.***.876-11
+Produto: Pneu
+Quantidade: 4
+Valor total: R$1199.60
+Data: 12-06-2025
+

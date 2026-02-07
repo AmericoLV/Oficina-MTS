@@ -1,0 +1,9 @@
+Extrato de ordem de servico
+Cliente: Diego | CPF: ***.***.444-55
+Data: 13-06-2025
+Problema: Troca de freios
+Status: Agendado
+Servicos: 
+ - Troca de freios(R$ 120,00)
+Valor total: R$209,50
+
